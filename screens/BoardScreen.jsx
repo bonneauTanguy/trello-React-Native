@@ -19,7 +19,7 @@ export default function BoardView() {
     <View style={styles.container}>
       <TouchableOpacity style={styles.btn} onPress={() => handleDeleteBoard()}>
                     <View style={styles.deleteWrapper}>
-                          <Text style={styles.addText}>Delete Board</Text>
+                          <Text style={styles.addText}>Supprimer le tableau</Text>
                       </View>
                   </TouchableOpacity>
               

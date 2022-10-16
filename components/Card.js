@@ -45,8 +45,7 @@ const styles = StyleSheet.create({
   contener: { // titre 
     backgroundColor:"#DADADA",
     borderRadius: 4,
-    marginRight: 25,
-    width:'200%',
+    width:'100%',
     marginBottom: 20,
   },
   item: { // la place ou les cartes ce stoque 
